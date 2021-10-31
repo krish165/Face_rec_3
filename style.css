@@ -1,0 +1,39 @@
+body
+{
+  font-family: cursive;
+  font-size: 22px;
+  background-image: url("https://cdn.familyfuncanada.com/wp-content/uploads/2019/12/family-2611748_1920.jpg");
+  background-size: cover;
+  color:yellow;
+}
+
+#capture_btn
+{
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: white;
+}
+
+#identify_btn
+{
+    border-radius: 5px;
+    border-width: 5px;
+    border-color: white;
+}
+
+#H
+{
+  color:rgb(255, 115, 0);
+  font-size: 55px;
+  font-family: fantasy;
+}
+#cam
+{
+    background-image: url("https://i.pinimg.com/originals/a2/dc/96/a2dc9668f2cf170fe3efeb263128b0e7.gif");
+    height: 250px;
+    width:400px;
+    border-radius: 5px;
+    border:dashed white;
+    background-size: cover;
+}
+
